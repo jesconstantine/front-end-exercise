@@ -23,16 +23,15 @@ Clone the project
 git clone git@github.com:massgov/front-end-exercise.git && cd front-end-exercise/
 ```
 
-Set up your local server with the dependencies and / or task runners that you see fit for this project.  
+Set up your local server with the dependencies and / or task runners that you see fit for this project.
 
-You can use any library/framework/plugin you want.
-
-You can write html/js/css or in languages which compile into html/js/css.  
-
-Project description
+Definition of Done
 -------------------
 
 We want to develop a small checklist component, based on a [visual design spec](https://projects.invisionapp.com/share/59FOTMHR2X4#/screens/277498035).
+
+Acceptance Criteria
+-------------------
 
 On page load, the checklist of items should be displayed.
 
@@ -42,8 +41,26 @@ When the user selects a checkbox, holds down the `SHIFT` key and selects a check
 
 The un/check all items should either check or uncheck all items.
 
-Bonus
------
+Implementation Details
+----------------------
+
+You can use any task runner you want.
+
+You can use any library/framework/plugin you want.
+
+You can write html/js/css or in languages which compile into html/js/css.
+
+Due to the limited time, develop just for the latest version of Google Chrome.
+
+Submission / Demo
+-----------------
+
+When you're all set, push your branch up to origin
+
+We must be able to pull your branch down and run the app locally
+
+Nice-to-haves
+-------------
 
 See if you can develop this component in a way that it (or pieces of it) could be reused elsewhere in our project.
 
@@ -57,5 +74,3 @@ Evaluation
 ----------
 
 Our goal is to find answers to get a feel for your favorite front end tools, workflow, methodologies, and standards.
-
-Due to the limited time, develop just for the latest version of Google Chrome.
