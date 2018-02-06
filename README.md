@@ -17,13 +17,16 @@ Prerequisites (optional)
 Installation
 ------------
 
-Clone the project
+1. 'Fork' this repository on Github
+
+
+2. Clone the project
 
 ```bash
-git clone git@github.com:massgov/front-end-exercise.git && cd front-end-exercise/
+git clone git@github.com:<your-username>/front-end-exercise.git && cd front-end-exercise/
 ```
 
-Set up your local server with the dependencies and / or task runners that you see fit for this project.
+3. Set up your local server with the dependencies and / or task runners that you see fit for this project.
 
 Definition of Done
 -------------------
@@ -55,22 +58,26 @@ Due to the limited time, develop just for the latest version of Google Chrome.
 Submission / Demo
 -----------------
 
-When you're all set, push your branch up to origin
+When you're all set, push your branch up to your forked repository.
 
-We must be able to pull your branch down and run the app locally
+We must be able to pull your branch down and run the app locally.
 
 Nice-to-haves
 -------------
+> This is where you have fun - think one of these features makes sense? try it!
 
 See if you can develop this component in a way that it (or pieces of it) could be reused elsewhere in our project.
 
-See if you can connect with an external data source to load the todo items and check / maintain the state of those items. (Psst! [json-server](https://github.com/typicode/json-server#readme) could be helpful here ;)
+See if you can connect with an external data source to load the todo items and check. (Psst! [json-server](https://github.com/typicode/json-server#readme) could be helpful here ;)
 
 See if you can add any considerations for cross/legacy browser support.
 
-See if you can add considerations for accessibility.
+See if you can add considerations for accessibility - how would a screen-reader interact with this?
+
+See if you can maintain the state of checked items when we reload the page.
+
 
 Evaluation
 ----------
 
-Our goal is to find answers to get a feel for your favorite front end tools, workflow, methodologies, and standards.
+Our goal is to get a feel for your favorite front end tools, workflow, methodologies, and standards.
