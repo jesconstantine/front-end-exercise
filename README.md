@@ -36,24 +36,21 @@ We want to develop a small checklist component, based on a [visual design spec](
 Acceptance Criteria
 -------------------
 
-On page load, the checklist of items should be displayed.
-
-When the user selects a checkbox, the item should appear crossed out, as shown in the design.
-
-When the user selects a checkbox, holds down the `SHIFT` key and selects a checkbox further down the list, every item in between should also be selected.
-
-The un/check all items button should either check or uncheck all items.
+1. On page load, the checklist of items should be displayed.
+1. When the user selects a checkbox, the item should appear crossed out, as shown in the design.
+1. When the user selects a checkbox, holds down the `SHIFT` key and selects a checkbox further down the list, every item in between should also be selected.
+1. The un/check all items button should either check or uncheck all items.
 
 Implementation Details
 ----------------------
 
-You can use any task runner you want.
+:heavy_check_mark: You can use any task runner you want.
 
-You can use any library/framework/plugin you want.
+:heavy_check_mark: You can use any library/framework/plugin you want.
 
-You can write html/js/css or in languages which compile into html/js/css.
+:heavy_check_mark: You can write html/js/css or in languages which compile into html/js/css.
 
-Due to the limited time, develop just for the latest version of Google Chrome.
+:heavy_check_mark: Due to the limited time, develop just for the latest version of Google Chrome.
 
 Submission / Demo
 -----------------
