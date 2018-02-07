@@ -3,14 +3,14 @@ Exercise for Front End Developer Candidates
 
 Hi and thanks for your interest in joining the team!
 
-To better assess a candidate's development skills, we would like to provide the following exercise. This is intended to be an exercise that can be developed within a few hours.
+We've created an exercise with the goal of getting a feel for your favorite front end tools, workflow, methodologies and experience. Our intention is that this exercise will not take up more than a few hours of your time.
 
 > Asking questions is part of the job - feel free to ask us for any clarification beyond this readme!
 
 Definition of done
 -------------------
 
-We want to develop a small checklist component, based on [a visual design spec](https://projects.invisionapp.com/share/59FOTMHR2X4#/screens/277498035).
+We want to develop a small checklist component, which renders with a visual design based on [this invision spec](https://projects.invisionapp.com/share/59FOTMHR2X4#/screens/277498035).
 
 Acceptance criteria
 -------------------
@@ -69,9 +69,3 @@ Nice-to-haves
 - you can add any considerations for cross/legacy browser support
 - you can add considerations for accessibility - how would a screen-reader interact with this?
 - you can maintain the state of checked items when we reload the page
-
-
-Evaluation
-----------
-
-Our goal is to get a feel for your favorite front end tools, workflow, methodologies, and standards.
