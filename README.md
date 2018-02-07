@@ -1,7 +1,9 @@
 Exercise for Front End Developer Candidates
 ===========================================
 
-To better assess a candidates development skills, we would like to provide the following exercise. This is intended to be an exercise that can be developed within a few hours.
+Hi and thanks for your interest in joining the team!
+
+To better assess a candidate's development skills, we would like to provide the following exercise. This is intended to be an exercise that can be developed within a few hours.
 
 Asking questions is part of the job - feel free to ask us for any clarification beyond this readme!
 
