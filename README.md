@@ -5,7 +5,7 @@ Hi and thanks for your interest in joining the team!
 
 To better assess a candidate's development skills, we would like to provide the following exercise. This is intended to be an exercise that can be developed within a few hours.
 
-Asking questions is part of the job - feel free to ask us for any clarification beyond this readme!
+> Asking questions is part of the job - feel free to ask us for any clarification beyond this readme!
 
 Definition of done
 -------------------
@@ -49,7 +49,9 @@ cd front-end-exercise/
 
 3. Please feel free to use any tools you're comfortable with & you believe are appropriate when setting up your local environment for this project
 
-4. The design spec is created in [invision](https://support.invisionapp.com/hc/en-us/articles/115000638763).  You don't need to install it or even create an account.  We've left some comments in the document, see [the invision docs](https://support.invisionapp.com/hc/en-us/articles/115000634946) for help looking at those comments.  (Let us know if we can help here!)
+4. The design spec is created in [invision](https://support.invisionapp.com/hc/en-us/articles/115000638763).  You don't need to install it or even create an account.  
+
+> We've left some comments in the document, see [the invision docs](https://support.invisionapp.com/hc/en-us/articles/115000634946) for help looking at those comments.  (Let us know if we can help here!)
 
 Submission / demo
 -----------------
