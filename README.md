@@ -3,6 +3,8 @@ Frontend Challenge for Developer Candidates
 
 To better assess a candidates development skills, we would like to provide the following exercise. This is intended to be an exercise that can be developed within a few hours.
 
+Asking questions is part of the job - feel free to ask us for any clarification beyond this readme!
+
 Prerequisites (mandatory)
 -------------------------
 
@@ -10,6 +12,8 @@ Prerequisites (mandatory)
 
 Prerequisites (optional)
 ------------------------
+> Please feel free to use any tools you feel comfortable with & you feel are appropriate - below are simply some suggestions.
+
 * [nodejs](https://nodejs.org/)
 * [npm](https://www.npmjs.org/)
 * [Bower](http://bower.io/)
