@@ -18,7 +18,7 @@ Acceptance criteria
 1. On page load, the checklist of items should be displayed.
 1. When the user selects a checkbox, the item should appear crossed out, as shown in the design.
 1. When the user selects a checkbox, holds down the `SHIFT` key and selects a checkbox further down the list, every item in between should also be selected.
-1. The un/check all items button should either check or uncheck all items.
+1. The un/check all button should either check or uncheck all items.
 
 Implementation details
 ----------------------
@@ -40,12 +40,14 @@ Getting started
 2. Clone your fork (see [github docs](https://guides.github.com/activities/forking/#clone))
 
 ```bash
+# in your terminal, where you want the project to live
+
 git clone git@github.com:<your-username>/front-end-exercise.git 
 
 cd front-end-exercise/
 ```
 
-3. Please feel free to use any tools you feel comfortable with & you feel are appropriate when setting up your local environment for this project
+3. Please feel free to use any tools you're comfortable with & you believe are appropriate when setting up your local environment for this project
 
 4. The design spec is created in [invision](https://support.invisionapp.com/hc/en-us/articles/115000638763).  You don't need to install it or even create an account.  We've left some comments in the document, see [the invision docs](https://support.invisionapp.com/hc/en-us/articles/115000634946) for help looking at those comments.  (Let us know if we can help here!)
 
@@ -54,7 +56,7 @@ Submission / demo
 
 When you're all set, [push your branch up](https://guides.github.com/activities/forking/#making-changes) to your forked repository.
 
-When we meet in perosn, folks from our team should be able to pull your branch down and run the app locally.
+When we talk in the future, folks from our team should be able to pull your branch down and run the app locally.
 
 Nice-to-haves
 -------------
