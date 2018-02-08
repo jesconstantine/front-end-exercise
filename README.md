@@ -7,6 +7,8 @@ We've created an exercise with the goal of getting a feel for your favorite fron
 
 > Asking questions is part of the job - feel free to ask us for any clarification beyond this readme!
 
+Good luck and have fun!
+
 Definition of done
 -------------------
 
@@ -70,5 +72,3 @@ Nice-to-haves
 - you can maintain the state of checked items when we reload the page
 - you can add any considerations for cross/legacy browser support
 - you can add considerations for accessibility - how would a screen-reader interact with this?
-
-Good luck and have fun!
