@@ -12,7 +12,7 @@ Good luck and have fun!
 Definition of done
 -------------------
 
-We want to develop a small checklist component, which renders with a visual design based on [this invision spec](https://projects.invisionapp.com/share/59FOTMHR2X4#/screens/277498035).
+We want to develop a small checklist component, which renders with a visual design based on [this invision spec](https://projects.invisionapp.com/share/7KFOTM8AFQ2#/screens/277498035).
 
 Acceptance criteria
 -------------------
