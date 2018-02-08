@@ -19,6 +19,7 @@ Acceptance criteria
 1. When the user selects a checkbox, the item should appear crossed out, as shown in the design.
 1. When the user selects a checkbox, holds down the `SHIFT` key and selects a checkbox further down the list, every item in between should also be selected.
 1. The un/check all button should either check or uncheck all items.
+1. As the viewport changes (i.e. mobile->tablet->desktop sizes), we should see some responsive considerations (we don't have anything specific in mind, so we'll leave this up to you!).
 
 Implementation details
 ----------------------
@@ -58,14 +59,16 @@ Submission / demo
 
 When you're all set, [push your branch up](https://guides.github.com/activities/forking/#making-changes) to your forked repository.
 
-When we talk in the future, folks from our team should be able to pull your branch down and run the app locally.
+When we talk in the future, folks from our team will want to pull your branch down and be able to run the app locally.
 
 Nice-to-haves
 -------------
 > This is where you have fun - think one of these features makes sense? Try it!
 
 - you can develop this component in a way that it (or pieces of it) could be reused elsewhere in our project
-- you can connect with an external data source to load the todo items and check (Psst! [json-server](https://github.com/typicode/json-server#readme) could be helpful here ;)
+- you can connect with an "external" data source to load the todo items and check
+- you can maintain the state of checked items when we reload the page
 - you can add any considerations for cross/legacy browser support
 - you can add considerations for accessibility - how would a screen-reader interact with this?
-- you can maintain the state of checked items when we reload the page
+
+Good luck and have fun!
