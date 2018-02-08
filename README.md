@@ -26,7 +26,7 @@ Acceptance criteria
 Implementation details
 ----------------------
 
-:heavy_check_mark: You can use any task runner you want.
+:heavy_check_mark: You can set your local environment up with any dev server/dependency manager/task runner that you want.
 
 :heavy_check_mark: You can use any library/framework/plugin you want.
 
@@ -38,7 +38,6 @@ Getting started
 ---------------
 
 1. Fork this repository on Github (see [github docs](https://guides.github.com/activities/forking/#fork))
-
 
 2. Clone your fork (see [github docs](https://guides.github.com/activities/forking/#clone))
 
